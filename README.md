@@ -8,7 +8,7 @@
 pb31ala/pb31ala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools i use:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -21,5 +21,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">
 <img src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png" alt="django" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3l3_SaW7hhLLxPRygP4ATnjbl1iurQ7ZoUA&usqp=CAU" alt="tensorflow 2.0" height="40" style="vertical-align:top; margin:4px">
 
 </p>
